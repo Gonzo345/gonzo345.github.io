@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Demigrant Code
-email: gonzo@demigrantcode.com
+email: gonzo@demigrantcode.com roger@demigrantcode.com
 description: >- # this means to ignore newlines until "baseurl:"
   Demigrant Code, donde podrás sentirte identificado con ese código programado
   por algún tipo de mono que... no te rías tanto, sabes bien que podrías ser tú.
